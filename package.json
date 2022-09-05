@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/joehenrickson/PWA/issues"
   },
-  "homepage": "https://github.com/joehenrickson/PWA#readme"
+  "homepage": "https://github.com/joehenrickson/PWA#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.18.1",
+    "mongo": "^0.1.0",
+    "mongoose": "^6.5.4",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {}
 }
